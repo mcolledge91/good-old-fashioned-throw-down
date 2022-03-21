@@ -2,7 +2,7 @@
 
 ## Territories
 
-### BONE SHRINE
+### Bone Shrine
 - The gang earns 2D6x5 credits from this Territory when collecting income.
 #### Cawdor
 - Whilst it controls this Territory the gang adds +2 to its Reputation.
