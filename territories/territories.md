@@ -68,7 +68,7 @@
 ----
 
 ### Stinger Mould Sprawl
-- During the post-battle sequence, the gang controlling this Territory mat re-roll a single Lasting Injury roll on a fighter. Note that a Memorable Death result may not be re-rolled
+- During the post-battle sequence, the gang controlling this Territory may re-roll a single Lasting Injury roll on a fighter. Note that a Memorable Death result may not be re-rolled
 #### Escher
 - Whilst it controls this Territory the gang adds +1 to its Reputation.
 - An Escher gang may either:
