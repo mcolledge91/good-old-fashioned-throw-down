@@ -2,6 +2,7 @@
 To determine which scenario will be used, roll 2D6 on the following table:
 
 | 2D6 | Result |
+| --- | --- |
 | 2-3 | The player with the greater number of Territories chooses which scenario to play. If both players have the same number of Territories, both players should roll a D6, with the player who rolls the highest choosing. If the scenario dictates there is an attacker and a defender, see page 91. |
 | 4-5 | Play the Border Dispute or the Marauders scenario. |
 | 6-7 | Play the Stand-off or the Tunnel Skirmish scenario. |
