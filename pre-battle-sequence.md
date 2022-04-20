@@ -3,7 +3,7 @@
 Follow these steps in order before a battle commences
 
 1. [Determine Scenario](#determine-scenario), using the necromunda rule book and the [Scenario Adjustments](#scenario-adjustments) making sure both players understand the rules and adjustments.
-1. [Determine Tactics & inducements](#determine-tactics--inducements)
+1. [Determine Tactics & inducements](#determine-inducements--tactics)
 1. [Determine Sub-Plots](#determine-sub-plots)
 1. Battle!
 
