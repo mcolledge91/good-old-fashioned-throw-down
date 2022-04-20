@@ -17,24 +17,6 @@ If the result allows a mission to be chosen, the chosen mission must be one of t
 
 -----------------
 
-## SNEAK ATTACK
-
-Due to the fact that missions now have a turn limit, sneak attacks have some potential problems that would not have previously existed. We add the following rules to address the problem:
-
-### Round Zero
-
-On missions that use the sneak attack rules, we introduce an additional round zero at the beginning of the game. This works the same as any other game round.
-
-### Raising The Alarm
-
-Replace the following rule:
-
-**Classic**: From the fifth round onwards, if the attacker rolls a 1 or 2 for their Priority roll, the alarm is raised.
-
-**Updated**: When rolling Priority, if the attacker rolls lower than the current round, the alarm is raised. 
-
-e.g. On round 2, if the attacker rolls a 1, the alarm is raised. On round 4, if the attacker rolls a 1, 2, or 3, the alarm is raised.
-
 ## SCENARIO ADJUSTMENTS
 
 The objective of these scenario adjustments is to make battles fairer, and to avoid draws in situations where cowardly tactics would otherwise be advantageous.
@@ -111,6 +93,8 @@ On addressing **2**, we just make the win condition slightly easier for the atta
 
 **Updated**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately.
 
+In addition, at the end of round 7 if the battle would not end in a draw, the battle ends immediately. If the battle would end in a draw, play one more round and the battle ends at the end of round 8.
+
 ### Victory
 
 **Classic**: The attacker wins if, at the end of the battle, more defenders were taken Out of Action than escaped – defenders that fled the battlefield do not count. Otherwise, the defender wins.
@@ -124,14 +108,6 @@ On addressing **2**, we just make the win condition slightly easier for the atta
 Pages 130 & 131
 
 **Dice Roll: 4 or 5**
-
-**Notes**: There are two points that need addressing for this scenario:
-1. Getting all the way accross to the relic and defiling it may take many turns (of running into gunfire).
-2. Implementing the turn limit makes a draw more likely.
-
-On addressing **1**, The relics deploy more centrally, incresing likelihood that either relic is defiled.
-
-On addressing **2**, There may be an 8th round, encouraging a team to try and defile by round 7. Ultimately if nethier team is able to defile, they may still have a chance to win based on forcing the enemy team to bottle.
 
 ### Deployment (Relic)
 
@@ -165,15 +141,7 @@ Pages 132 & 133
 
 **Dice Roll: 8 or 9**
 
-**Notes**: Not obvious if this mission has big problems. Sneak attack has been slightly updated, which may help.
-
-### Ending the battle
-
-**Classic**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately
-
-**Updated**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately. 
-
-In addition, at the end of round 7 the battle ends immediately.
+Not Updated
 
 -----------------
 
@@ -183,25 +151,7 @@ Pages 134 & 135
 
 With one of their number in the hands of their rivals, a gang launches a daring rescue.
 
-### Ending the battle
-
-**Classic**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately.
-
-**Updated**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately. 
-
-In addition, at the end of round 7 if the battle would not end in a draw, the battle ends immediately. If the battle would end in a draw, play one more round and the battle ends at the end of round 8.
-
-### Victory
-
-**Classic**: The attacker wins if, at the end of the battle, all of their fighters held Captive were freed and have taken flight. If no Captives took flight, the defender wins. Otherwise, the game is a draw.
-
-**Updated**: At the end of the battle, any Captives that were freed and have taken flight, or who were freed and would start the next round Standing and Active, are considered to have Escaped.
-
-The attacker wins if, at the end of the battle, all of their fighters held Captive are considered to have Escaped.
-
-The defender wins if, at the end of the battle, none of the fighters held captive are considered to have Escaped.
-
-Otherwise the game is a draw.
+Not Updated
 
 -----------------
 
@@ -269,8 +219,6 @@ Pages 142 & 143
 
 A gang that really wants to make itself known may raid deep into an enemy territory, hoping to steal goods and defile something sacred.
 
-**Notes**: Deployment is kinda scuffed on this one.
-
 ### Deployment
 
 **Classic**: The defender sets up their sentries anywhere on the battlefield, and a gang relic anywhere within 6" of one edge of the battlefield. The attacker then sets up each of their fighters entirely within 4" of any edge of the battlefield and must be within 4" of another member of the crew. The attacker is free to use all edges.
@@ -278,16 +226,6 @@ A gang that really wants to make itself known may raid deep into an enemy territ
 **Updated**: The defender sets up their sentries anywhere on the battlefield, and a gang relic anywhere within the center board tile.
 
 The attacker then sets up each of their fighters entirely within 4" of any edge of the battlefield and must be within 4" of another member of the crew. The attacker is free to use all edges.
-
-**Notes**:
-
-### Ending the battle
-
-**Classic**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately.
-
-**Updated**: If either gang has no fighters left on the battlefield at the end of any round, the battle ends immediately. 
-
-In addition, at the end of round 7 the battle ends immediately.
 
 -----------------
 
